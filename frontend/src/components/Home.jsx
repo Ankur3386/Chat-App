@@ -3,6 +3,7 @@ import React, { useState } from 'react'
 export default function Home() {
   const [phoneNumber, setPhoneNumber] = useState('')
   const [password, setPassword] = useState('')
+  const [user, setUser] = useState('')
 
  
 
